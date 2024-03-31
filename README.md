@@ -1,7 +1,5 @@
-# Telegram_bot_using_LLM_Base_model
+# Telegram_Bot_using_GenAI
 
-
-# Telagram-Bot-using-GenAI
 
 
 # How to run?
