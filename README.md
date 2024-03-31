@@ -25,3 +25,13 @@ conda activate venv_telebot
 ```bash
 pip install -r requirements.txt
 ```
+
+### Telegram Setup:
+Search for botfather
+
+- /newbot
+
+- aiwalabro
+- aiwalabro_bot
+- Now click on url to access the bot
+- Make sure you collect the access token
