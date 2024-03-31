@@ -35,3 +35,8 @@ Search for botfather
 - aiwalabro_bot
 - Now click on url to access the bot
 - Make sure you collect the access token
+
+
+### tokens
+OPENAI_API_KEY = "XX-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+TOKEN = "XXXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
